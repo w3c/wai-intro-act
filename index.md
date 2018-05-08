@@ -1,62 +1,78 @@
 ---
-title: "Page Title"
+title: Accessibility Conformance Testing (ACT) Rules Format Overview
 permalink: /standards-guidelines/act/
+layout: default
 github:
-  repository: wai-intro-act
-footer: > # Text in footer in HTML
-  <p> This is the text in the footer </p>
+  repository: w3c/wai-intro-act
+footer: >
+  <p><strong>Date:</strong> Updated 8 May 2018.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/).</p>
+  
 ---
 
+
 {::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto excepturi incidunt, odit modi quidem deserunt doloremque molestias saepe. Iste dolor non repellendus laudantium! Nihil velit mollitia voluptatem ullam libero.
+This page introduces the Accessibility Conformance Testing (ACT) Rules Format.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
+
+{::options toc_levels="2" /}
+
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include_cached toc.html type="start" title="Page Contents" %}
 {:/}
 
-- This will be replaced by an automatically generated TOC when using Markdown formatting.
+-   TOC is created automatically.
 {:toc}
 
 {::nomarkdown}
-{% include toc.html type="end" %}
+{% include_cached toc.html type="end" %}
 {:/}
 
-## Heading Level 2
+The purpose of the Accessibility Conformance Testing (ACT) effort is to establish and document rules for testing the conformance of web content to accessibility standards, such as Web Content Accessibility Guidelines (WCAG). These test rules include automated, semi-automated, and manual testing procedures. The ACT Task Force aims to make accessibility testing transparent, and thus minimize confusion caused by different interpretations of accessibility guidelines.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. **Assumenda aut, praesentium (bold)** commodi _nesciunt natus (italic)_ ipsum fugiat [voluptates nisi ipsam voluptas (Link)](https://example.com) recusandae, a. [Sunt eos veritatis numquam (Internal link)]({{ "/permalink/to/page/" | relative_url }})!
+## Who ACT is for
 
-### Heading Level 3
+The primary audience of Accessibility Conformance Testing (ACT) Rules Format is developers of accessibility evaluation tools. They implement rules into their products. ACT serves as documentation and requirements for these tools.
 
-1. This is 
-2. a nice
-3. ordered
-4. list.
+A secondary audience is accessibility experts. They often assist in setting an organization's accessibility policy, and it is important for them to know what the rules do and ab able to write rule.
 
-#### Heading Level 4
+Who ACT is **not** for: Users of accessibility tools (web developers, content authors, QA testers, etc.) are not expected to read ACT.
 
+<!-- ## What is in ACT 1.0 -->
 
-* And this is a
-* bullet list
+## What are the objectives of ACT
 
-- You can use asterisks
-- or dashes. Whatever floats
-- your boat :-)
+* **Establish consensus interpretation of accessibility requirements (Primarily WCAG) around a core set of test rules** &mdash; currently there are varying and often contradictory interpretations of WCAG, which causes confusion and slows down the implementation of web accessibility
+* **Provide transparency and comparability of test tools and implementations** &mdash; currently test tools employ their own often proprietary interpretations of WCAG, making test results difficult to interpret, combine, and compare
+* **Enable increased tool support by documenting structured testing procedures** &mdash; establishing a common base of test rules allows tool developers to focus on increasing tool support, to reduce the amount of manual testing required
+* **Support test-driven authoring of success criteria in WCAG 2.1 and beyond** &mdash; providing the framework for test rules will allow the working group to author future accessibility requirements that are backed by authoritative test rules
 
-##### Heading Level 5
+## What is the status of ACT 1.0
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam!
+[Accessibility Conformance Testing (ACT) Rules Format 1.0](https://www.w3.org/TR/act-rules-format/) is currently a Working Draft.
 
-## Heading Level 2
+### Technical document format
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam!
+The ACT follows the W3C format for technical specifications, which includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status with the link to errata and the email address for comments. Most WAI specifications have a link at the top to the Table of Contents.
 
-### Heading Level 3
+## Who develops ACT
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione placeat ab laboriosam. Assumenda aut, praesentium commodi nesciunt natus ipsum fugiat voluptates nisi ipsam voluptas recusandae, a. Sunt eos veritatis numquam!
+[ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the Accessibility Guidelines Working Group ([AG WG]( https://www.w3.org/WAI/GL/)) develops the normative framework specification and supporting materials needed to implement the standard.
+
+The [auto-WCAG Community Group](https://www.w3.org/community/auto-wcag/) develops non-normative test rules according to the normative framework specification, and provides feedback to inform the development of the standard.
+
+Opportunities for contributing to ACT and other WAI work are introduced in [Participating in WAI](/WAI/participation).
+
+## Additional information
+
+For more information, see:
+* [ACT Overview - What is ACT wiki page](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/ACT_Overview_-_What_is_ACT)
+* [WCSG Accessibility Conformance Testing (ACT) blog post](https://www.w3.org/blog/2017/04/wcag-accessibility-conformance-testing-act/)
