@@ -17,6 +17,7 @@ footer: >
 {:/}
 
 This page introduces the [Accessibility Conformance Testing (ACT) Rules Format](https://www.w3.org/TR/act-rules-format/) and related documents.
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
