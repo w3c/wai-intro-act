@@ -1,5 +1,5 @@
 ---
-title: Accessibility Conformance Testing (ACT) Rules Format Overview
+title: Accessibility Conformance Testing (ACT) Overview
 permalink: /standards-guidelines/act/
 layout: default
 github:
@@ -7,7 +7,7 @@ github:
 footer: >
   <p><strong>Date:</strong> Updated 8 May 2018.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/).</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the <a href=" https://www.w3.org/WAI/GL/task-forces/conformance-testing ">ACT Task Force </a>.</p>
   
 ---
 
@@ -16,7 +16,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the Accessibility Conformance Testing (ACT) Rules Format.
+This page introduces the Accessibility Conformance Testing (ACT) Rules Format and related documents.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -36,6 +36,8 @@ This page introduces the Accessibility Conformance Testing (ACT) Rules Format.
 {% include_cached toc.html type="end" %}
 {:/}
 
+## Introduction
+
 The purpose of the Accessibility Conformance Testing (ACT) effort is to establish and document rules for testing the conformance of web content to accessibility standards, such as Web Content Accessibility Guidelines (WCAG). These test rules include automated, semi-automated, and manual testing procedures. The ACT Task Force aims to make accessibility testing transparent, and thus minimize confusion caused by different interpretations of accessibility guidelines.
 
 ## Who ACT is for
@@ -48,14 +50,14 @@ Who ACT is **not** for: Users of accessibility tools (web developers, content au
 
 <!-- ## What is in ACT 1.0 -->
 
-## What are the objectives of ACT
+## Objectives of ACT
 
 * **Establish consensus interpretation of accessibility requirements (Primarily WCAG) around a core set of test rules** &mdash; currently there are varying and often contradictory interpretations of WCAG, which causes confusion and slows down the implementation of web accessibility
 * **Provide transparency and comparability of test tools and implementations** &mdash; currently test tools employ their own often proprietary interpretations of WCAG, making test results difficult to interpret, combine, and compare
 * **Enable increased tool support by documenting structured testing procedures** &mdash; establishing a common base of test rules allows tool developers to focus on increasing tool support, to reduce the amount of manual testing required
 * **Support test-driven authoring of success criteria in WCAG 2.1 and beyond** &mdash; providing the framework for test rules will allow the working group to author future accessibility requirements that are backed by authoritative test rules
 
-## What is the status of ACT 1.0
+## Status of ACT 1.0
 
 [Accessibility Conformance Testing (ACT) Rules Format 1.0](https://www.w3.org/TR/act-rules-format/) is currently a Working Draft.
 
