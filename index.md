@@ -4,6 +4,7 @@ permalink: /standards-guidelines/act/
 layout: default
 github:
   repository: w3c/wai-intro-act
+feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 3 July 2018.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
