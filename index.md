@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-intro-act
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 3 July 2018.</p>
+  <p><strong>Date:</strong> Updated 30 July 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the <a href=" https://www.w3.org/WAI/GL/task-forces/conformance-testing ">ACT Task Force </a>.</p>
   
@@ -62,7 +62,7 @@ Who ACT is **not** for: Users of accessibility tools (web developers, content au
 
 ## Status of ACT Rules Format 1.0
 
-[Accessibility Conformance Testing (ACT) Rules Format 1.0](https://www.w3.org/TR/act-rules-format/) is currently a Working Draft. ACT Rule implementations of this specification are currently in development.
+[Accessibility Conformance Testing (ACT) Rules Format 1.0](https://www.w3.org/TR/act-rules-format/) is currently a stable draft called W3C Proposed Recommendation (see [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/) for more background). A collection of [ACT Rules](https://act-rules.github.io/rules/) conforming to this specification is being developed through the [W3C ACT Rules Community Group](https://www.w3.org/community/act-r/).
 
 ### Technical document format
 
@@ -70,14 +70,15 @@ The ACT Rules Format follows the W3C format for technical specifications, which 
 
 ## Who develops ACT
 
-[ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the Accessibility Guidelines Working Group ([AG WG]( https://www.w3.org/WAI/GL/)) develops the normative ACT Rules Format specification and supporting materials needed to implement the standard.
+The [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the Accessibility Guidelines Working Group ([AG WG]( https://www.w3.org/WAI/GL/)) develops the normative ACT Rules Format 1.0 specification and supporting materials needed to implement the standard.
 
-The [auto-WCAG Community Group](https://auto-wcag.github.io/auto-wcag/) develops non-normative test rules according to the normative specification. Approved test rules are provided in the [Accessibility Conformance Testing (ACT) Rules Repository](https://w3c.github.io/wcag-act-rules/).
+The [W3C ACT Rules Community Group](https://www.w3.org/community/act-r/) (formerly Auto-WCAG CG) develops non-normative test rules according to the normative specification. Approved test rules will be published in the [Accessibility Conformance Testing (ACT) Rules Repository](https://w3c.github.io/wcag-act-rules/).
 
 Opportunities for contributing to ACT and other WAI work are introduced in [Participating in WAI](/WAI/participation).
 
 ## Additional information
 
 For more information, see:
+* [Harmonizing Accessibility Testing (ACT) post](https://www.w3.org/blog/2019/07/harmonized-accessibility-testing/)
+* [WCAG Accessibility Conformance Testing (ACT) blog post](https://www.w3.org/blog/2017/04/wcag-accessibility-conformance-testing-act/)
 * [ACT Overview - What is ACT wiki page](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/ACT_Overview_-_What_is_ACT)
-* [WCSG Accessibility Conformance Testing (ACT) blog post](https://www.w3.org/blog/2017/04/wcag-accessibility-conformance-testing-act/)
