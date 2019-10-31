@@ -61,7 +61,7 @@ The ACT Rules Format follows the W3C format for technical specifications, which 
 
 ### ACT Rules Repository
 
-Currently, W3C published the rule [HTML Page has Title](@@@). More rules are expected in the coming period. The [ACT Rules Community Group](https://www.w3.org/community/act-r/) developed over [50 rules](https://act-rules.github.io/rules/), many of which will be submitted to W3C for review and approval. Other entities can also contribute candidate rules for review and approval.
+Currently, W3C published the rule [HTML Page has Title](/standards-guidelines/act/rules/html-page-has-title-2779a5/). More rules are expected in the coming period. The [ACT Rules Community Group](https://www.w3.org/community/act-r/) developed over [50 rules](https://act-rules.github.io/rules/), many of which will be submitted to W3C for review and approval. Other entities can also contribute candidate rules for review and approval.
 
 #### Future of ACT Rules
 
