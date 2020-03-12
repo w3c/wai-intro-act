@@ -61,7 +61,15 @@ The ACT Rules Format follows the W3C format for technical specifications, which 
 
 ### ACT Rules Repository
 
-Currently, W3C published the rule [HTML Page has Title](/standards-guidelines/act/rules/html-page-has-title-2779a5/). More rules are expected in the coming period. The [ACT Rules Community Group](https://www.w3.org/community/act-r/) developed over [50 rules](https://act-rules.github.io/rules/), many of which will be submitted to W3C for review and approval. Other entities can also contribute candidate rules for review and approval.
+Currently, W3C published the following set of rules:
+
+- [HTML Page has Title](/standards-guidelines/act/rules/html-page-has-title-2779a5/)
+- [Image button has accessible name](/standards-guidelines/act/rules/image-button-accessible-name-59796f/)
+- [HTML page has `lang` attribute](/standards-guidelines/act/rules/html-page-lang-b5c3f8/)
+- [HTML page language is valid](/standards-guidelines/act/rules/html-page-lang-valid-bf051a/)
+- [HTML page lang and xml:lang attributes have matching values](/standards-guidelines/act/rules/html-page-lang-xml-lang-match-5b7ae0/)
+
+More rules are expected in the coming period. The [ACT Rules Community Group](https://www.w3.org/community/act-r/) developed over [50 rules](https://act-rules.github.io/rules/), many of which will be submitted to W3C for review and approval. Other entities can also contribute candidate rules for review and approval.
 
 #### Future of ACT Rules
 
