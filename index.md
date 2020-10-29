@@ -57,11 +57,11 @@ Who ACT is **not** for: Users of accessibility tools (web developers, content au
 
 #### Technical document format
 
-The ACT Rules Format follows the W3C format for technical specifications, which includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status with the link to errata and the email address for comments. Most WAI specifications have a link at the top to the Table of Contents.
+The ACT Rules Format follows the W3C format for technical specifications, which includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status with the link to errata and the email address for comments.
 
 ### ACT Rules Repository
 
-**[List of Accessibility Conformance Testing (ACT) Rules](/standards-guidelines/act/rules/)** formally published by the W3C Accessibility Guidelines Working Group (AGWG). More rules are expected in the coming period. The [ACT Rules Community Group](https://www.w3.org/community/act-r/) developed over [50 rules](https://act-rules.github.io/rules/), many of which will be submitted to W3C for review and approval. Other entities can also contribute candidate rules for review and approval.
+**[List of Accessibility Conformance Testing (ACT) Rules](/standards-guidelines/act/rules/)** formally published by the W3C Accessibility Guidelines Working Group (AG WG). More rules are expected in the coming months. The [ACT Rules Community Group](https://www.w3.org/community/act-r/) developed over [50 rules](https://act-rules.github.io/rules/), many of which will be submitted to the AG WG for review and approval. Other entities can also contribute candidate rules for review and approval.
 
 #### Future of ACT Rules
 
@@ -69,7 +69,7 @@ We expect more ACT Rules to be formally published by W3C as further candidate ru
 
 ## Who develops ACT
 
-The [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the W3C Accessibility Guidelines Working Group ([AGWG](https://www.w3.org/WAI/GL/)) develops the [ACT Rules Format](https://www.w3.org/TR/act-rules-format/) specification. The ACT Task Force also reviews test rules contributed by the community in first instance. Formal publication of the ACT Rules Format specification and of ACT Rules listed on this page is made by AGWG.
+The [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the W3C Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) develops the [ACT Rules Format](https://www.w3.org/TR/act-rules-format/) specification. The ACT Task Force also reviews test rules contributed by the community in first instance. Formal publication of the ACT Rules Format specification and of ACT Rules listed on this page is made by AG WG.
 
 The [ACT Rules Community Group](https://www.w3.org/community/act-r/) develops test rules according to the ACT Rules Format specification. These rules by the community group do not have any formal standing in the W3C process.
 
