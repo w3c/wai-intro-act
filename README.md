@@ -1,3 +1,1 @@
-# wai-intro-act
-
-Preview: https://w3c.github.io/wai-intro-act/standards-guidelines/act/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2f6eed0c-c893-47ce-9ecb-25bb0e7dd0e8/deploy-status)](https://app.netlify.com/sites/wai-intro-act/deploys)
