@@ -78,6 +78,6 @@ Opportunities for contributing to ACT and other WAI work are introduced in [Part
 ## Additional information
 
 For more information, see:
-* [Calibarate Your Accessibility Evaluation with ACT blog post](https://www.w3.org/blog/2019/10/calibrate-your-accessibility-evaluation-with-act/)
+* [Calibrate Your Accessibility Evaluation with ACT blog post](https://www.w3.org/blog/2019/10/calibrate-your-accessibility-evaluation-with-act/)
 * [Harmonized Accessibility Testing blog post](https://www.w3.org/blog/2019/07/harmonized-accessibility-testing/)
 * [ACT Rules Community Group GitHub workspace](https://act-rules.github.io/)
