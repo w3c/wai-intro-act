@@ -6,9 +6,9 @@ github:
   repository: w3c/wai-intro-act
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 30 October 2020.</p>
-  <p><strong>Previous Editor</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>
+  <p><strong>Date:</strong> Updated 10 January 2022.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p><strong>Previous Editor</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the <a href=" https://www.w3.org/WAI/GL/task-forces/conformance-testing ">ACT Task Force</a>. ACT work is supported by the <a href="https://www.w3.org/WAI/about/projects/wai-tools/">WAI-Tools Project</a>, co-funded by the European Commission.</p>
   
 ---
