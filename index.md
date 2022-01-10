@@ -7,7 +7,8 @@ github:
 feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 30 October 2020.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p><strong>Previous Editor</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the <a href=" https://www.w3.org/WAI/GL/task-forces/conformance-testing ">ACT Task Force</a>. ACT work is supported by the <a href="https://www.w3.org/WAI/about/projects/wai-tools/">WAI-Tools Project</a>, co-funded by the European Commission.</p>
   
 ---
@@ -65,7 +66,7 @@ The ACT Rules Format follows the W3C format for technical specifications, which 
 
 #### Future of ACT Rules
 
-We expect more ACT Rules to be formally published by W3C as further candidate rules are contributed by the community. Contact <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> for questions on how to contribute candidate rules and participate in the review process of ACT Rules.
+We expect more ACT Rules to be formally published by W3C as further candidate rules are contributed by the community. Contact <a href="mailto:dmontalvo@w3.org">Daniel Montalvo</a> for questions on how to contribute candidate rules and participate in the review process of ACT Rules.
 
 ## Who develops ACT
 
