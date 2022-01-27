@@ -65,7 +65,7 @@ The ACT Rules Format follows the W3C format for technical specifications, which 
 
 #### Future of ACT Rules
 
-We expect more ACT Rules to be formally published by W3C as further candidate rules are contributed by the community. Contact <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> for questions on how to contribute candidate rules and participate in the review process of ACT Rules.
+We expect more ACT Rules to be formally published by W3C as further candidate rules are contributed by the community. Contact <a href="mailto:dmontalvo@w3.org">Daniel Montalvo</a> for questions on how to contribute candidate rules and participate in the review process of ACT Rules.
 
 ## Who develops ACT
 
