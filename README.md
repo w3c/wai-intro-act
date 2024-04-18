@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2f6eed0c-c893-47ce-9ecb-25bb0e7dd0e8/deploy-status)](https://app.netlify.com/sites/wai-intro-act/deploys)
+> [!IMPORTANT]
+> This repository has been archived 18 April 2024.
+>
+> [Accessibility Conformance Testing (ACT) Overview](https://www.w3.org/WAI/standards-guidelines/act/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
